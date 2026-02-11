@@ -9,7 +9,6 @@ import turkishFlight from './assets/izyan-sultanali-_JBMWUAsbAY-unsplash.jpg';
 import airIndiaFlight from './assets/daniel-eledut-0dvPFzubryE-unsplash.jpg';
 import qantas1 from './assets/david-syphers-uSVABoyhpNo-unsplash.jpg';
 import qantas2 from './assets/troy-mortier-aiJhx2KXIhU-unsplash.jpg';
-import indigo1 from './assets/john-mcarthur-Szdnazr0s_o-unsplash.jpg';
 import indigo2 from './assets/md-shafinur-rahman-4-MSW1OwSz4-unsplash.jpg';
 import flyadealFlight from './assets/flyadeal-YQdbb8sF274-unsplash.jpg';
 import iberiaFlight from './assets/miguel-angel-sanz-S_Vo-umb6yM-unsplash.jpg';
